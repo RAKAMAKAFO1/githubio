@@ -1,0 +1,21 @@
+.text {
+	background: blue;
+	margin: 5px 10px 100px 20px;
+padding: 10px;
+}
+
+p {
+	background: gray;
+	color: white;
+}
+
+.max {
+	background: black;
+}
+
+img {
+	width: 300px
+	
+
+}
+
